@@ -1,0 +1,31 @@
+_repo: The-Cricket-s-FriendsTales-Told-by-the-Cricket-Teapot-and-Saucepan_37147
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37147-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnson, Virginia W. (Virginia Wales)
+    birthdate: 1849
+    deathdate: 1916
+    gutenberg_agent_id: '38678'
+    url: http://www.gutenberg.org/2009/agents/38678
+description: ''
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: The travelled spider -- The ambitious wasp -- The disappointed caterpillar
+  -- The four silver peaches -- Going Maying -- Grandpapa mouse and his family --
+  The enchanted baby-house -- The story of an umbrella -- The godmother's gifts.
+title: 'The Cricket''s Friends: Tales Told by the Cricket, Teapot, and Saucepan'
+url: http://www.gutenberg.org/ebooks/37147
